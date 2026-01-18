@@ -1,0 +1,13 @@
+# Ignore zip files
+*.zip
+
+# Ignore other HTML files not needed for GitHub Pages
+index_files/
+saved_resource*.html
+
+# macOS
+.DS_Store
+
+# Editor files
+.vscode/
+.idea/
